@@ -5,6 +5,6 @@ A place to test and train git
 Hello.
 
 # New section
-- Test 1
+- auf wiedersehn
 - Hi 2
 - Bye 3
